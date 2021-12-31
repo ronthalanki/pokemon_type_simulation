@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Fire",
+        "immunes": [],
+        "weaknesses": [
+            "Water"
+        ],
+        "strengths": [
+            "Grass"
+        ]
+    },
+    {
+        "name": "Water",
+        "immunes": [],
+        "weaknesses": [
+            "Grass"
+        ],
+        "strengths": [
+            "Fire"
+        ]
+    },
+    {
+        "name": "Grass",
+        "immunes": [],
+        "weaknesses": [
+            "Fire"
+        ],
+        "strengths": [
+            "Water"
+        ]
+    }
+]
